@@ -5,7 +5,7 @@ Page 23:
 - $(\sqrt{x})^2 = 4^2$, I get it. But why is this other approach wrong?
 $$\sqrt x = 4$$
 multiply both sides by $\sqrt x$
-$$\sqrt x *  \sqrt x = 4 * \sqrt x$$
+$$\sqrt x \cdot \sqrt x = 4 \cdot \sqrt x$$
 doesn't look good (and also losing solutions, right?)
 $$x = 4\sqrt x$$
 - E1.5, how is $g^-1(x)=-\frac{1}{2} \ln x$? (have to review inverse functions way better)
