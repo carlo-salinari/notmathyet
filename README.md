@@ -1,5 +1,6 @@
 # Ask Mika
 (From the No Bullshit book)
+
 Page 23:
 - $(\sqrt{x})^2 = 4^2$, I get it. But why is this other approach wrong?
 $$\sqrt x = 4$$
