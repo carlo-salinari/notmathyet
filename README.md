@@ -18,7 +18,7 @@ Page 33:
 
 Page 34:
 - he says quadratic factoring is $f(x) = ax^2+bx+c = a(x-x_1)(x-x_2)$ but since the $a$ is in the quadratic formula, the last one should read $1(x-x_1)(x-x_2)$, no?
-- how should it be "evident" that I can rewrite any quadratic (with real coefficients?) as $a(x-x_1)(x-x_2)$? From the (uncited) fondamental theorem of algebra?
+- how should it be "evident" that I can rewrite any quadratic (with real coefficients?) as $a(x-x_1)(x-x_2)$? From the (uncited) fundamental theorem of algebra?
 
 Page 38:
 - just to be clear: the $=$ operator is overloaded here, right? $R(n) = 25n$ is an assignment, while $R(n)=7000$ is an equation (asking the inverse evaluation of a function?)
