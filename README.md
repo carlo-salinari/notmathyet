@@ -8,7 +8,7 @@ multiply both sides by $\sqrt x$
 $$\sqrt x \cdot \sqrt x = 4 \cdot \sqrt x$$
 doesn't look good (and also losing solutions, right?)
 $$x = 4\sqrt x$$
-- E1.5, how is $g^-1(x)=-\frac{1}{2} \ln x$? (have to review inverse functions way better)
+- E1.5 b) how is $g^-1(x)=-\frac{1}{2} \ln x$? (have to review inverse functions way better)
 
 Page 25:
 - while the commutative and associative properties seem to tell me something fundamental about the operation, I can't understand how the distributive one is placed in the same class. Isn't it just telling me that I can collapse/expand parenthesis? Is it only for notation or has it some deeper meaning I'm not seeing?
