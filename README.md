@@ -2,7 +2,7 @@
 (From the No Bullshit book)
 
 Page 23:
-- $(\sqrt{x})^2 = 4^2$, I get it. But why is this other approach wrong?
+- E1.5 a) $(\sqrt{x})^2 = 4^2$, I get it. But why is this other approach wrong?
 $$\sqrt x = 4$$
 multiply both sides by $\sqrt x$
 $$\sqrt x \cdot \sqrt x = 4 \cdot \sqrt x$$
