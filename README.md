@@ -14,7 +14,8 @@ Page 25:
 - while the commutative and associative properties seem to tell me something fundamental about the operation, I can't understand how the distributive one is placed in the same class. Isn't it just telling me that I can collapse/expand parenthesis? Is it only for notation or has it some deeper meaning I'm not seeing?
 
 Page 33:
-- if $\phi = \frac{1 + \sqrt{5}}{2}$ I was inclined to think that $-\frac{1}{\phi} = - \phi^{-1} = -\frac{2}{1+\sqrt{5}}$ but it's instead $\frac{1-\sqrt{5}}{2}$, poxa!
+- if $\phi = \frac{1 + \sqrt{5}}{2}$ I was inclined to think that $$- \frac{1}{\phi} = -\phi^{-1} =  -\frac{2}{1+\sqrt{5}}$$
+but it's instead $\frac{1-\sqrt{5}}{2}$, poxa!
 
 Page 34:
 - he says quadratic factoring is $f(x) = ax^2+bx+c = a(x-x_1)(x-x_2)$ but since the $a$ is in the quadratic formula, the last one should read $1(x-x_1)(x-x_2)$, no?
